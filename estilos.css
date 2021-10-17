@@ -1,0 +1,145 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap'); */
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+/* COLORS PAGE */
+:root {
+  /* PRIMARY COLOR : rgb(227, 105, 95) */
+  /* TEXT COLOR: rgb(51, 51, 51) */
+  --primary-color: rgb(227, 105, 95);
+  --text-color: rgb(51, 51, 51);
+  --gray-color: #999;
+  --twitter: #1d9bf0;
+}
+
+hr {
+  margin: 0;
+}
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: var(--text-color);
+  font-size: 16px;
+}
+
+body.is-dark {
+  --text-color: white;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+}
+
+.container {
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px 40px;
+}
+
+.box {
+  /* border: solid 1px red; */
+  box-shadow: 2px 4px 6px 1px rgb(50 50 50 /14%);
+}
+
+.box__header {
+  text-align: center;
+}
+
+.box__title {
+  font-size: 2.6em;
+  margin-bottom: 40px;
+}
+
+.box__subtitle {
+  font-size: 36px;
+}
+
+.box__bio {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.remark {
+  color: var(--primary-color);
+}
+
+.box__cta {
+  text-align: center;
+}
+
+.btn__cta {
+  padding: 0.55em 1em;
+  border: none;
+  background-color: var(--primary-color);
+  font-size: 1.5em;
+  color: #fff;
+  font-weight: 700;
+  border-radius: 4px;
+  margin-bottom: 1.25rem;
+}
+
+.font-normal {
+  font-weight: 400;
+}
+
+.text-gray {
+  color: var(--gray-color);
+}
+
+p.text-gray {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.box__install {
+  padding-top: 1.25em;
+  text-align: center;
+}
+
+.text-code {
+  font-size: 1.25em;
+}
+
+.box__container {
+  padding: 40px 60px;
+}
+
+.box__footer {
+  padding: 1em 1.875em;
+  text-align: right;
+  display: flex;
+
+  align-items: center;
+}
+
+.read-more {
+  display: inline-block;
+  font-size: 1.2em;
+  align-self: end;
+}
+
+.tweet {
+  display: inline-block;
+  border: none;
+  padding: 1px 0.75em;
+  border-radius: 0.875em;
+  height: 1.75rem;
+  background-color: var(--twitter);
+  color: #fff;
+  margin-left: 0.75rem;
+}
+
+.box__left {
+  height: 100%;
+  display: flex;
+  width: 50%;
+  align-items: center;
+}
