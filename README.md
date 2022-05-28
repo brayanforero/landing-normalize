@@ -10,9 +10,10 @@ This is a clone of the landing page Normalize, this project has the objective of
 ## Instalation 🛠
 
 1- Clone this project.
-`git clone git@github.com:brayanforero/telegram-static-chat.git`
+`git clone this project`
 2- Install dependencies
-`npm install or yarn` 3. Open in your browser localhost:8080
+`npm install or yarn` 
+3- Open file **index.html** in your broswser
 
 ## About Me 😁
 
