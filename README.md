@@ -1,6 +1,6 @@
 # Normalize Landing Clone
 
-![Telegram](https://repository-images.githubusercontent.com/451166195/4087b6cc-33ab-4a94-b146-9c55037e5649 'Telegram')
+![Telegram](https://repository-images.githubusercontent.com/418251932/72b9486a-e13f-4b99-8e6e-317270efb7da 'Normalize')
 This is a clone of the landing page Normalize, this project has the objective of raising my skills in css.
 
 ## Preview 💻
