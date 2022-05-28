@@ -1,7 +1,7 @@
-# Telegram Static Chat
+# Normalize Landing Clone
 
 ![Telegram](https://repository-images.githubusercontent.com/451166195/4087b6cc-33ab-4a94-b146-9c55037e5649 'Telegram')
-This is a clone of the Telegram chat layout, this project has the objective of raising my skills in css, using the **webpack** file packer, the **sass** preprocessor and **typescript**
+This is a clone of the landing page Normalize, this project has the objective of raising my skills in css.
 
 ## Preview 💻
 
@@ -19,5 +19,5 @@ This is a clone of the Telegram chat layout, this project has the objective of r
 [Get to know me a little more in my portfolio][portafolio]
 [portafolio]: https://brayanforero.github.io/engineering "Portafolio"
 
-[1]: https://telegram-static-chat.vercel.app/
-[preview]: https://telegram-static-chat.vercel.app/
+[1]: https://landing-normalize.vercel.app/
+[preview]: https://landing-normalize.vercel.app/
