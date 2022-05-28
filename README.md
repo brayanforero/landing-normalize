@@ -5,7 +5,7 @@ This is a clone of the landing page Normalize, this project has the objective of
 
 ## Preview 💻
 
-[Go to preview][preview]
+[Go to preview](https://landing-normalize.vercel.app/)
 
 ## Instalation 🛠
 
@@ -17,5 +17,3 @@ This is a clone of the landing page Normalize, this project has the objective of
 
 ## About Me 😁
 [Get to know me a little more in my portfolio]( https://brayanforero.github.io/engineering)
-[1]: https://landing-normalize.vercel.app/
-[preview]: https://landing-normalize.vercel.app/
