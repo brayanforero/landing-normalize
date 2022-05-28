@@ -16,9 +16,6 @@ This is a clone of the landing page Normalize, this project has the objective of
 3- Open file **index.html** in your broswser
 
 ## About Me 😁
-
-[Get to know me a little more in my portfolio][portafolio]
-[portafolio]: https://brayanforero.github.io/engineering "Portafolio"
-
+[Get to know me a little more in my portfolio]( https://brayanforero.github.io/engineering)
 [1]: https://landing-normalize.vercel.app/
 [preview]: https://landing-normalize.vercel.app/
